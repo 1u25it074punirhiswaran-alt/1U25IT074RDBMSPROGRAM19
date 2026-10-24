@@ -18,5 +18,5 @@ BEGIN
     -- TODO: Close cursor
 
 END //
-
+    
 DELIMITER ;
